@@ -10,3 +10,8 @@
 
 - `Class02_Homework.ipynb` — 9 道课后练习题作答，含完整运行输出与累积收益率对比图
 - `datasets/000001.csv` — 课堂数据：上证综指（000001）日度行情，1990-12-19 – 2026-10-08，共 8,737 个交易日
+
+## Class 3 · 收益率分布、累计收益与最大回撤（可视化）
+
+- `Class03_Homework.ipynb` — 5 道习题作答（重建年度收益、累计收益曲线、回撤图、月度分布、月份箱线图），含运行输出
+- `images/Cumulative_return.pdf` / `images/Drawdown.pdf` / `images/Monthly_return_hist_kde.pdf` / `images/Monthly_return_boxplot.pdf` — 习题 2–5 的作图结果
